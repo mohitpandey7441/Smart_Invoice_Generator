@@ -1,0 +1,33 @@
+[
+    {
+        "invoice_number": "INV-9262",
+        "date": "2026-06-11",
+        "due_date": "2026-06-25",
+        "from": {
+            "name": "Mohit",
+            "email": "mohit123@gmail.com",
+            "phone": "2514789630",
+            "address": "sdjioiolsdaas,\n"
+        },
+        "to": {
+            "name": "Pranshu",
+            "email": "pranshu87@gmail.com",
+            "phone": "8596321478",
+            "address": "asdmknasdo\n"
+        },
+        "items": [
+            {
+                "description": "NoteBook",
+                "quantity": 4,
+                "rate": 80.0,
+                "amount": 320.0
+            }
+        ],
+        "subtotal": 320.0,
+        "tax": 5.0,
+        "tax_amount": 16.0,
+        "total": 336.0,
+        "notes": "thanks\n",
+        "id": 1
+    }
+]
